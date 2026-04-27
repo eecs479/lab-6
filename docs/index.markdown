@@ -3,7 +3,7 @@ layout: spec
 latex: true
 ---
 
-# Lab 6: Grover's Algorithm
+<!-- # Lab 6: Grover's Algorithm -->
 
 Submit to Autograder by 11:55 pm Thu 2/26
 
