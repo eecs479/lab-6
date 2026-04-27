@@ -6,7 +6,7 @@ latex: true
 <!-- # Lab 6: Grover's Algorithm -->
 
 Submit to Autograder by 11:55 pm Thu 2/26
-
+<!-- 
 [Starter Code](https://eecs479.github.io/lab-6/starter_code.zip)
 
 [Qiskit Tutorials](https://docs.quantum.ibm.com/)
@@ -62,4 +62,4 @@ where \(N\) is the number of possible inputs and \(M\) is the number of solution
 
 ## Submission Notes
 
-Implement the required functions in `lab_6.py` and verify with `test.py`. The autograder uses the same set of tests (no hidden tests).
+Implement the required functions in `lab_6.py` and verify with `test.py`. The autograder uses the same set of tests (no hidden tests). -->
